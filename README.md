@@ -1,5 +1,5 @@
 # **Mans CV**
-![My Portrait](https://i.imgur.com/zI2CQmw.png)
+![My Portrait](angry.jpg)
 
 **Vārds, uzvārds:** Mets Latuskins\
 **Dzimšanas dati:** 15.09.2004.\
