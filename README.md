@@ -1,50 +1,34 @@
-Mans CV
-My Portrait
+# **Mans CV**
+![My Portrait](https://i.imgur.com/zI2CQmw.png)
 
-Vārds, uzvārds: Kristiāns Artis Bērziņš
-Dzimšanas dati: 03.12.2004.
-E-pasta adrese: kristiansberzins@outlook.lv
-Tālruņa numurs: +371 28758694
+**Vārds, uzvārds:** Mets Latuskins\
+**Dzimšanas dati:** 15.09.2004.\
+**E-pasta adrese:** met2015@inbox.lv\
+**Tālruņa numurs:** +371 28755655
 
-Izglītība
-No 2020. gada 1. septembra līdz šai dienai
+## Izglītība
+> **No 2020. gada 1. septembra līdz šai dienai**
 
-PIKC «Rīgas Valsts tehnikums»
+PIKC «Rīgas Valsts tehnikums»\
 Programmētājs
 
-No 2011. gada 1. septembra līdz 2020. gada 31. maijam
+> **No 2011. gada 1. septembra līdz 2020. gada 31. maijam**
 
-Inčukalna pamatskola
+Rīgas 95.Vidusskola\
 (Pabeigta 9. klašu pamatizglītība)
 
-Sasniegumi
-Veiksmīga dalība vairākās olimpiādēs Rīgas rajona olimpiādēs;
-Latviešu valodas un literatūras olimpiādē iegūta 3. vieta;
-Hobiji
-Basketbols;
-Riteņbraukšana (MTB);
-IT tehnoloģijas;
-Gaismu un skaņu režija;
-Jaunu programmēšanas valodu izpēte un iepazīšana;
-Pieredze programmēšanā
-Pazīstamas programmēšanas valodas:
-Python;
-Roblox Lua;
-Esmu dzirdējis par:
-Lua;
-JavaScript;
-C++;
-C;
-PHP;
-Cita pieredze
-Vairākkārtēja Latvijas Jauno Jātnieku skolas turnīru apskaņošana (pateicība);
 
 
-No 2018. gada 3. decembra līdz šim brīdim
+## Hobiji
+- Smāgatletika
+- numizmatīka
 
-Brīvprātīga dalība Inčukalna Tautas nama darbības uzturēšanā un popularizēšanā;
-Gaismu un skaņu režisora palīgs;
 
-No 2017. gada 1. septembra līdz 2020. gada 31. maijam
-
-Mācību laikā Inčukalna pamatskolas skolēnu pašpārvaldes priekšsēdētāja vietnieks IT jautājumos;
+## Pieredze programmēšanā
+- Pazīstamas programmēšanas valodas:
+    - Python;
+    - golang;
+- Esmu dzirdējis par:
+    - JavaScript;
+    - C++;
+    - PHP;
